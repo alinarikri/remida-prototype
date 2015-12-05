@@ -1,0 +1,188 @@
+/*
+#182430 – dark navy, 
+#e10068 – bright pink and 
+#4cbcc0 - bright blue
+
+*/
+
+/*************************************
+        General styles
+*****************************************/
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+   
+}
+
+.h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
+/***************************************** 
+        Navigation styling 
+******************************************/
+
+.top-bar, .top-bar-left, .top-bar ul, .title-bar, .dropdown.menu, .submenu {
+    background: #182430;
+
+}
+.top-bar-right {
+    background: transparent;
+}
+
+ul a {
+    color: #fff;
+    transition: ease-in-out, color .5s;
+}
+
+ul a:hover {
+    color: #e10068;
+}
+
+.current {
+    background: #e10068;
+    color: #fff;
+    border-radius: 0 0 17% 17%;
+}
+
+.current:hover {
+    color: #fff;
+}
+
+@media (max-width: 1024px) {
+    .current {
+        border-radius: 0;
+    }
+}
+
+.sidebar-nav {
+    color: #182430;  
+}
+
+.top-bar-right {
+    margin-top: -55px; /* works for 980, 768 widths*/
+    margin-left: calc(100% - 180px); /* Pushes menu to the right, works well on different widths*/
+}
+
+@media (min-width:1024px) {
+    .top-bar-right { margin-top: -85px; } /* */
+}
+
+
+
+/***************** New button classes **************/
+
+.primary-btn {
+    background: #4cbcc0 none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 0.9rem;
+    line-height: 1;
+    margin: 0 1rem 1rem 0;
+    padding: 0.85em 1em;
+    text-align: center;
+    transition: all 0.25s ease-out 0s;
+    vertical-align: middle;
+}
+
+.primary-btn:hover {
+    background: none;
+    border: 1px solid white;
+    color: #fff;   
+}
+
+.secondary-btn {
+    
+}
+/**************************************************/
+
+.special-font {
+    font-family: 'Permanent Marker', cursive;
+    color:#e10068;
+    font-size: 1.2em;
+    line-height: 1;
+    display: inline-block;
+    transform: skew(-2deg, -3deg);   
+}
+
+.featured-image {
+    height: 30vh;
+    background: #fbf8f4;
+    display: flex;
+}
+
+.vertical-centering {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background: rgba(16, 23, 31, .7);
+}
+
+
+#front-section {
+/*    background-image: url("../img/kiddo");*/
+    background-color: #182430; /* dark navy */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -600px 0;
+    height: 100vh;
+    margin:0;
+    text-align: right;
+    color: #fff;
+}
+
+#second-section, #third-section, #fourth-section, #page-footer {
+/*    padding: 3em;  padding added pushes columns on mobile*/
+     color: #fff;
+    
+}
+
+#second-section {
+    background: #182430;
+}
+
+#third-section {
+    background: #4cbcc0;
+}
+#fourth-section {
+    color: #000;
+}
+
+#fourth-section h2 {
+    color: #182430;
+}
+.border-top {
+    border-top: 4px solid #e10086; 
+}
+
+.card {
+    transition: ease-in-out, background 2s;
+}
+.card:hover {
+    background: #213141;
+}
+
+.column-text {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
+/*********** FOOTER STYLES *********************/
+
+#page-footer {
+    margin-top: 3rem;
+    background: #182830;
+    padding-top: 2rem;
+}
+.breadcrumbs {
+    padding-top: 1.5rem;
+}
+
+#copyright {
+    background: #e10068;
+    color: #fff;
+}
