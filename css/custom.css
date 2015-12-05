@@ -1,10 +1,19 @@
-/*
+/* Style guide
 #182430 – dark navy, 
 #e10068 – bright pink and 
 #4cbcc0 - bright blue
 
 */
 
+/* debuging styles, remove when done*/
+.row {
+    outline: 1px dashed white;
+}
+
+.columns {
+    outline: 1px dashed red;
+    outline-offset: -5px;
+}
 /*************************************
         General styles
 *****************************************/
@@ -26,6 +35,15 @@ body, h1, h2, h3, h4, h5, h6 {
     background: #182430;
 
 }
+
+/*
+@media (max-width:768px) {
+    .top-bar, .top-bar-left, .top-bar ul {
+        background: #213142;
+    }
+}
+*/
+
 .top-bar-right {
     background: transparent;
 }
@@ -55,7 +73,7 @@ ul a:hover {
     }
 }
 
-.sidebar-nav {
+.sidebar-nav a {
     color: #182430;  
 }
 
@@ -65,7 +83,7 @@ ul a:hover {
 }
 
 @media (min-width:1024px) {
-    .top-bar-right { margin-top: -85px; } /* */
+    .top-bar-right { margin-top: -95px; } /* */
 }
 
 
@@ -118,26 +136,23 @@ ul a:hover {
     align-items: center;
     justify-content: center;
     margin: auto;
-    background: rgba(16, 23, 31, .7);
+/*    background: rgba(16, 23, 31, .7);  background for debugging purposes*/
 }
 
 
 #front-section {
-/*    background-image: url("../img/kiddo");*/
     background-color: #182430; /* dark navy */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: -600px 0;
     height: 100vh;
-    margin:0;
-    text-align: right;
     color: #fff;
+    display: flex;
 }
 
 #second-section, #third-section, #fourth-section, #page-footer {
-/*    padding: 3em;  padding added pushes columns on mobile*/
+    padding: 3rem 0;  
      color: #fff;
-    
 }
 
 #second-section {
@@ -155,20 +170,20 @@ ul a:hover {
     color: #182430;
 }
 .border-top {
-    border-top: 4px solid #e10086; 
+    border-top: 6px solid #e10086; 
 }
 
 .card {
-    transition: ease-in-out, background 2s;
+    transition: ease-in-out, background 1s;
+     padding-bottom: 3rem;
 }
 .card:hover {
     background: #213141;
+   
 }
 
-.column-text {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
+img {
+    margin-top: 0.9375rem;
 }
 
 /*********** FOOTER STYLES *********************/
@@ -178,6 +193,7 @@ ul a:hover {
     background: #182830;
     padding-top: 2rem;
 }
+
 .breadcrumbs {
     padding-top: 1.5rem;
 }

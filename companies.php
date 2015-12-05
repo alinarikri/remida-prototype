@@ -4,12 +4,12 @@
 
 <!-- Page main content -->
    <div class="featured-image">
-          <div class="row">
+          <div class="row vertical-centering">
           <div class="small-11 small-centered columns">
-              <div class="vertical-centering">
+              
                   <h1>Partnership</h1>
                   <p>Sponsor creativity, innovation and environment</p>
-              </div>
+            
           </div>
         </div>
     </div>

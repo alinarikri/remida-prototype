@@ -4,7 +4,7 @@
    
 
    <div class="featured-image">
-          <div class="row">
+          <div class="row vertical-centering">
           <h1 class="special-font">Workshops </h1>
           <p>Come and be creative</p>
         </div>
@@ -28,13 +28,13 @@
     <div class="row">
     <div class="small-2 large-3 columns">
         <ul class="vertical menu hide-for-small-only sidebar-nav" >
-            <li><a href="">Workshop ideas</a></li>
+            <li><a href="workshop-ideas.php">Workshop ideas</a></li>
             <li><a href="">Educators</a></li>
             <li><a href="">Pricing</a></li>
         </ul>
                        
     </div>
-    <div class="small-10 large-8 columns end">
+    <div class="small-10 medium-8 large-8 columns end">
         <h2>Workshops</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis velit, quidem qui ipsa, natus provident rerum ratione illo fuga, porro at quasi odio, inventore repellendus veniam reiciendis beatae explicabo dolores.</p>
         <h3></h3>

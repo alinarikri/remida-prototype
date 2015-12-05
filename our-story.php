@@ -24,8 +24,8 @@
     
 
     <div class="row">
-    <div class="small-2 large-3 columns">
-        <ul class="vertical menu hide-for-small-only" >
+    <div class="small-2 medium-3 large-3 columns">
+        <ul class="vertical menu hide-for-small-only sidebar-nav" >
             <li><a href="">Sidebar link</a></li>
             <li><a href="">Workshop ideas</a></li>
             <li><a href="">Educators</a></li>

@@ -12,17 +12,20 @@
    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
   </head>
   <body>
+<!--  Facebook SDK initialize -->
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=345313962221747";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <!-- Responsive navigation toggle -->
 <div class="title-bar" data-responsive-toggle="main-nav" data-hide-for="large">
   <button class="menu-icon" type="button" data-toggle></button>
   <div class="title-bar-title">Menu</div>
- 
-<!--
-     <div class="small-8 small-centered columns">
-          <a href="/remida-prototype/index.php"><img src="/remida-prototype/img/logo-40.png" alt="remida logo" id="logo"></a>
-     </div>
--->
   
 </div>
 <!-- This is the nav that is shown on large scrcreen px 1024 and bigger-->
@@ -30,7 +33,7 @@
   <div id="main-nav" class="top-bar-left">
     <ul class="vertical large-horizontal dropdown menu" data-dropdown-menu>
       <li class="menu-text"><a href="/remida-prototype//index.php">
-          <img class="show-for-large" src="/remida-prototype/img/logo-80.png" alt="remida logo" id="logo"></a></li>
+          <img  src="/remida-prototype/img/remida-logo.png" alt="remida logo" id="logo"></a></li>
       <li>
         <a href="/remida-prototype/workshops.php">Workshops</a>
 <!--
