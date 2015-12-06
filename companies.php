@@ -26,58 +26,101 @@
         </nav>
        </div>
     </div>
-    
+<!--    ROW FOR MAIN CONTENT -->
     <div class="row">
-       <div class="small-11 columns">
-           <h2>For companies </h2> 
-        <h3>Your benefits:</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel corporis, quidem consectetur nihil corrupti sunt maiores, repudiandae eius dolorum saepe qui eaque nesciunt sed tenetur laboriosam esse vitae sapiente reiciendis!</p>
-       </div>  
-    </div>
+        <div class="small-11 large-8 columns">
+            <div class="row">
+               <div class="small-11 columns">
+                   <h2>For companies </h2> 
+                <h3>Your benefits:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel corporis, quidem consectetur nihil corrupti sunt maiores, repudiandae eius dolorum saepe qui eaque nesciunt sed tenetur laboriosam esse vitae sapiente reiciendis!</p>
+               </div>  
+            </div>
     
-    <div class="row">
-       <div class="small-11 medium-6 large-3 columns">
-            <div class="callout">
-            <h4>Diamond</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor odio itaque at, sint quasi non aliquid beatae cum possimus eveniet blanditiis ullam placeat aliquam suscipit optio explicabo repudiandae fugiat deleniti.</p>
-            <p><a data-open="sponsorForm">Become member</a></p>
-        </div>
+    <!--        SPONSORSHIP PLANS SECTION -->
+           
+       <div class="row">
+           
+            <div class="small-12 large-6 columns">
+                <div class="callout">
+                <h4>Diamond</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor odio itaque at, sint quasi non aliquid beatae cum possimus eveniet blanditiis ullam placeat aliquam suscipit optio explicabo repudiandae fugiat deleniti.</p>
+                <p><a data-open="sponsorForm">Become member</a></p>
+                </div>
+            </div>
+
+           <div class="small-12 large-6 columns">
+                <div class="callout">
+                <h4>Gold</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsum quam delectus quisquam dolores quae? Obcaecati incidunt laborum tempore non quis delectus quos officiis, inventore nihil hic atque, illo tempora.</p>
+                <p><a data-open="sponsorForm">Click me for a modal</a></p>
+                </div>
+           </div>
+        
        </div>
-        <div class="small-11 medium-6 large-3 columns">
-            <div class="callout">
-            <h4>Gold</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsum quam delectus quisquam dolores quae? Obcaecati incidunt laborum tempore non quis delectus quos officiis, inventore nihil hic atque, illo tempora.</p>
-            <p><a data-open="sponsorForm">Click me for a modal</a></p>
-        </div>
-        </div>
-        <div class="small-11 medium-6 large-3 columns">
-            <div class="callout">
+       
+       <div class="row">
+           
+           <div class="small-12 large-6 columns">
+                <div class="callout">
                 <h4>Silver</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sunt explicabo fugit expedita unde modi dignissimos omnis quae! Blanditiis eius velit perspiciatis incidunt eaque non in dicta adipisci repellendus quis.</p>
                 <p><a data-toggle="sponsorForm">Click me for a modal</a></p>
             </div>
-        </div>
-          <div class="small-11 medium-6 large-3 columns end">
+           </div>
+            
+        <div class="small-12 large-6 columns end">
             <div class="callout">
                 <h4>Bronze</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sunt explicabo fugit expedita unde modi dignissimos omnis quae! Blanditiis eius velit perspiciatis incidunt eaque non in dicta adipisci repellendus quis.</p>
                 <p><a data-toggle="membershipForm">Click me for a modal</a></p>
             </div>
         </div>
-</div>
-        <div class="row">
-              <div class="small-11 large-8 large-centered columns">
-                    <div class="callout">
+       </div>   
+            
+            
+         <div class="row">
+              <div class="small-11 large-12 columns">
+                <div class="callout">
                         <h4>Sponsor with materials</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sunt explicabo fugit expedita unde modi dignissimos omnis quae! Blanditiis eius velit perspiciatis incidunt eaque non in dicta adipisci repellendus quis.</p>
                         <p><a data-toggle="sponsorForm">Click me for a modal</a></p>
-                    </div>
+            </div>
+          </div>
+             
+         </div>
+        </div>
+        
+
+   
+        
+<!--        TESTIMONIAL SECTION -->
+        
+        <div class="small-11 large-4 columns end">
+            <div class="callout">
+                <h3>Testimonial first</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat provident atque pariatur, veniam maiores expedita dolorum nostrum reiciendis, quo eos perferendis, unde sint praesentium, explicabo laboriosam aliquam a nemo assumenda.</p>
+            </div>
+        </div>
+        
+           <div class="small-11 large-4 columns end">
+            <div class="callout">
+                <h3>Contact details </h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat provident atque pariatur, veniam maiores expedita dolorum nostrum reiciendis, quo eos perferendis, unde sint praesentium, explicabo laboriosam aliquam a nemo assumenda.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+
+       
+        <div class="row">
+              <div class="small-11 large-8 large-centered columns">
+                    
                 </div>
         </div>
      
-    </div>
-</div>
-
 
     
 <!-- modal in modal-->

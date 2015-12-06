@@ -64,6 +64,15 @@
             </div>
     </div>
  </div> 
+ <div id="sponsors">
+        <div class="row">
+            <div class="small-10 large-8 columns">
+                <h2>Our current sponsors</h2>
+                
+                <p><a class="button ghost-button" href="companies.php">Become a sponsor</a></p>
+            </div>
+    </div>
+ </div> 
 
    <div id="fourth-section">
         <div class="row">
