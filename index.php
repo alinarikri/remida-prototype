@@ -56,40 +56,51 @@
  <div id="third-section">
         <div class="row">
             <div class="small-10 large-8 columns">
-                <h2>Check out our Pinterest for ideas</h2>
+                <h2>Who can come?</h2>
                 <p class="lead">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti nesciunt alias pariatur laboriosam quasi quisquam incidunt et sunt! Laborum aliquid doloremque quod modi dolorem possimus repudiandae consequatur beatae laudantium molestiae.
-                </p>
-                <p><a class="button ghost-button" href="">Go to pinterest</a></p>
+                   Young and old! Everyone who is interested in being creative</p>
+                <p>Come to the center and discover your creativity and your imagination. we have plenty of materials and tools waiting for you.</p>
+            </div>
+            <div class="small-11 medium-4 large-4 columns end">
+                <h4>Upcomming event: Family days</h4>
+                <div class="flex-video">
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/V9gkYw35Vws" frameborder="0" allowfullscreen></iframe>
+</div>
+            </div>
             </div>
     </div>
  </div> 
  <div id="sponsors">
         <div class="row">
-            <div class="small-10 large-8 columns">
-                <h2>Our current sponsors</h2>
+            <div class="small-10 large-12 columns">
+                <h2>Our major sponsors</h2>
+                <p>No sponsors&mdash;no ReMida center</p>
+                <div class="row">
+                    <div class="small-3 large-3 columns">
+                        <img src="img/sponsors/logo-large-bilka.png" alt="Bilka logo">
+                    </div>
+                    <div class="small-3 large-3 columns">
+                        <img src="img/sponsors/odense-kommune.png" alt="Odense Kommune logo">
+                    </div>
+                    <div class="small-3 large-3 columns">
+                        <img src="img/sponsors/org_odense_renovation_logo.png" alt="Odense Renovation Logo">
+                    </div>
+                    <div class="small-3 large-3 columns">
+                        <img src="img/sponsors/The-Body-Shop-logo-007.png" alt="Body Shop logo">
+                    </div>
+                </div>
                 
-                <p><a class="button ghost-button" href="companies.php">Become a sponsor</a></p>
+                <div class="row">
+                    <div class="small-12 columns">
+                        <p><a class="button ghost-button" href="companies.php">Become a sponsor</a></p>
+                    </div>
+                </div>
             </div>
     </div>
  </div> 
 
-   <div id="fourth-section">
-        <div class="row">
-            <div class="small-11 medium-8 large-8 columns">
-                <h2>Who can come?</h2>
-                <p class="lead">
-                    Maybe add a block to the right with events. and a link to events page that we dont haveLorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti nesciunt alias pariatur laboriosam quasi quisquam incidunt et sunt! Laborum aliquid doloremque quod modi dolorem possimus repudiandae consequatur beatae laudantium molestiae.
-                </p>
-            </div>
-            <div class="small-11 medium-4 large-4 columns end">
-                <h3>Family days</h3>
-                <div class="flex-video">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/V9gkYw35Vws" frameborder="0" allowfullscreen></iframe>
-</div>
-            </div>
-    </div>
- </div> 
+ 
+
    
 
     

@@ -33,7 +33,7 @@
                <div class="small-11 columns">
                    <h2>For companies </h2> 
                 <h3>Your benefits:</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel corporis, quidem consectetur nihil corrupti sunt maiores, repudiandae eius dolorum saepe qui eaque nesciunt sed tenetur laboriosam esse vitae sapiente reiciendis!</p>
+                <p>Features tell, benefits sell! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel corporis, quidem consectetur nihil corrupti sunt maiores, repudiandae eius dolorum saepe qui eaque nesciunt sed tenetur laboriosam esse vitae sapiente reiciendis!</p>
                </div>  
             </div>
     
@@ -82,9 +82,9 @@
          <div class="row">
               <div class="small-11 large-12 columns">
                 <div class="callout">
-                        <h4>Sponsor with materials</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sunt explicabo fugit expedita unde modi dignissimos omnis quae! Blanditiis eius velit perspiciatis incidunt eaque non in dicta adipisci repellendus quis.</p>
-                        <p><a data-toggle="sponsorForm">Click me for a modal</a></p>
+                        <h4>Are you looking for a way to get rid of your overproduction?</h4>
+                        <p>Your overproduction will get new life in our center. We are happy to take all sorts of different materials: big and small, few and many, new or used. Contact us if you have questions.</p>
+                        <p><a data-toggle="sponsorForm">Leave us a message</a></p>
             </div>
           </div>
              
@@ -99,7 +99,17 @@
         <div class="small-11 large-4 columns end">
             <div class="callout">
                 <h3>Testimonial first</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat provident atque pariatur, veniam maiores expedita dolorum nostrum reiciendis, quo eos perferendis, unde sint praesentium, explicabo laboriosam aliquam a nemo assumenda.</p>
+                <p class="testimonial">ReMida is a good project because they focus on buy and throw&ndash;away&ndash;culture. Remida shows their members the value of materials and so affects our consumption behaviour. HOWE is very proud to support such work!</p>
+                <p>Hele Rex</p>
+                <p>HOWE A/S, CSR Manager</p>
+            </div>
+        </div>
+          <div class="small-11 large-4 columns end">
+            <div class="callout">
+                <h3>Testimonial second</h3>
+                <p class="testimonial">We as a production company are focusing on how we can reuse our materials. At ReMida it is done with creativity and fantasy, which is absolutely unique.</p>
+                <p>Name</p>
+                <p>Company</p>
             </div>
         </div>
         

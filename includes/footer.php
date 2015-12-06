@@ -20,6 +20,7 @@
              </ul>
          </div>
          <div id="facebook-page" class="small-11 medium-4 large-4 columns end">
+            <h4>Like us on Facebook</h4>
              <div class="fb-page" 
                   data-href="https://www.facebook.com/ReMida-Center-Odense-center-for-kreativt-genbrug-243182275732814/?fref=ts" 
                   data-small-header="false" 

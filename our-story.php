@@ -2,10 +2,8 @@
   
  <div class="featured-image">
           <div class="row vertical-centering">
-          <div class="small-11 large-9 columns">
-              <h1>Our story </h1>
+             <h1>Our story </h1>
           <p>Idea comes from Italy</p>
-          </div>
         </div>
 </div>
     
