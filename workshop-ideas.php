@@ -1,5 +1,5 @@
   <?php require 'includes/header.php'; ?>
-  
+<main>
  <div class="featured-image">
           <div class="row vertical-centering">
           <h1>Workshop ideas </h1>
@@ -37,5 +37,6 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta officiis, dolore quo odit labore consequatur atque est, accusamus alias laudantium iste nobis. Delectus, atque illo id laborum quo inventore voluptatum!</p>
     </div>
 </div>
+</main>
  
 <?php include 'includes/footer.php'?>

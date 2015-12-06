@@ -20,8 +20,17 @@
 body, h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-   
 }
+/* Making a sticky footer
+body {
+    display:flex;
+    flex-flow: column;
+    min-height: 100vh;
+}
+main {
+    flex: 1;
+}
+*/
 
 .h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
