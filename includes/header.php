@@ -69,7 +69,7 @@ contains menu and a logo in the middle
         </ul>
 -->
       </li>
-      <li  class="current"><a href="/remida-prototype/companies.php">For companies</a></li>
+      <li><a href="/remida-prototype/companies.php">For companies</a></li>
       <li><a href="/remida-prototype/memberships.php">Be our member</a></li>
       <li><a href="#">Blog</a></li>
       <li><a href="#">Contact</a></li>

@@ -59,6 +59,12 @@
                 <p class="lead">Everyone who is interested in being creative.</p>
                 <p>Come to the center and discover your creativity and your imagination. At ReMida we have open day events, where everyone is welcome! First time does not require membership. We have plenty of materials and tools waiting for you.</p>
                 <p>Our members can come and pick up materials to be used at home or class. </p>
+                <div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
                 <p><a class="secondary-btn" href="">Become a member</a></p>
             </div>
             <div class="small-11 medium-4 large-4 columns end">

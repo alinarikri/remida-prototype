@@ -24,13 +24,22 @@
     <div class="row">
     <div class="small-2 medium-3 large-3 columns">
         <ul class="vertical menu hide-for-small-only sidebar-nav" >
-            <li><a href="">Sidebar link</a></li>
-            <li><a href="">Workshop ideas</a></li>
-            <li><a href="">Educators</a></li>
-            <li><a href="">Pricing</a></li>
+            <li><a href="#">People behind</a></li>
+            <li><a href="#">ReMida in OUH</a></li>
+            <li><a href="#">Other centers</a></li>
         </ul>
                        
     </div>
+<main>
+        <div class="small-10 medium-8 large-8 columns end">
+        <h2>Unique concept: sustainability with education</h2>
+        <p class="lead">
+            Concept developed in Italy, little town Reggio Emilia.
+        </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore id dignissimos corrupti, repellat quaerat necessitatibus voluptates animi officia voluptas nemo, debitis perspiciatis illo. Eos voluptas ab earum in unde, ipsam!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus recusandae dicta nihil ad, magnam culpa odit id ut obcaecati! Natus illum dolorem distinctio obcaecati sit non dolores consequatur velit eligendi?</p>
+    </div>
+</main>
 </div>
  
 <?php include 'includes/footer.php'?>

@@ -6,15 +6,15 @@
 
    <div class="featured-image">
           <div class="row vertical-centering">
-          <div class="small-11 large-9 columns">
-              <h1><span class="special-font-1">Experience </span>ReMida</h1>
-          <p>Become a member and use materials</p>
+          <div class="small-12 large-12 columns">
+              <h1><span class="special-font">Get involved</span></h1>
+          <p>Become a member and unlock your creativity</p>
           </div>
         </div>
 
     </div>
     <div class="row">
-       <div class="small-11 small-centered columns">
+       <div class="small-11 columns">
            <nav aria-label="You are here:" role="navigation">
           <ul class="breadcrumbs">
             <li><a href="/remida-prototype/index.php">Home</a></li>
@@ -27,10 +27,16 @@
     </div>
     
     <div class="row">
-        <div class="small-11 columns">
+        <div class="small-11 large-8 columns">
             <h2>Become a member </h2> 
-        <h3>Membership benefits:</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel corporis, quidem consectetur nihil corrupti sunt maiores, repudiandae eius dolorum saepe qui eaque nesciunt sed tenetur laboriosam esse vitae sapiente reiciendis!</p>
+            <p class="lead">By being a member you support our daily acctivities like center administration, electricity and rent. We could not continue to exist without your support through memberships.</p>
+            <h3>Membership benefits:</h3>
+            <ul>
+                <li>Collect as much as you need.</li>
+                <li>No materials fee when you book workshops or festivals.</li>
+                <li>Quarterly newsletters full of ideas, events and inspiration.</li>
+                <li>Ideas and support for your projects whether they are at school or at home.</li>
+            </ul>
         </div>
     </div>
     <div class="row">
@@ -38,21 +44,21 @@
             <div class="callout">
             <h4>Schools and Kindergartens</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor odio itaque at, sint quasi non aliquid beatae cum possimus eveniet blanditiis ullam placeat aliquam suscipit optio explicabo repudiandae fugiat deleniti.</p>
-            <p><a data-open="membershipForm">Become member</a></p>
+            <p><a data-open="membershipForm">Become a member</a></p>
         </div>
        </div>
         <div class="medium-4 columns">
             <div class="callout">
             <h4>Børnehave</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsum quam delectus quisquam dolores quae? Obcaecati incidunt laborum tempore non quis delectus quos officiis, inventore nihil hic atque, illo tempora.</p>
-            <p><a data-open="membershipForm">Click me for a modal</a></p>
+            <p><a data-open="membershipForm">Become a member</a></p>
         </div>
         </div>
         <div class="medium-4 columns">
                <div class="callout">
             <h4>Family</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sunt explicabo fugit expedita unde modi dignissimos omnis quae! Blanditiis eius velit perspiciatis incidunt eaque non in dicta adipisci repellendus quis.</p>
-            <p><a data-toggle="membershipForm">Click me for a modal</a></p>
+            <p><a data-toggle="membershipForm">Become a member</a></p>
         </div>
         </div>
      

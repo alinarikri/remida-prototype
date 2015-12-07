@@ -38,6 +38,18 @@ main {
     font-weight: 700;
 }
 
+main {
+    padding-bottom: 3rem;
+}
+
+.lead {
+    padding-bottom: 1.5rem;
+}
+.callout {
+    height: 300px;
+    padding-top: 1.5rem;
+}
+
 /***************************************** 
         Navigation styling 
 ******************************************/
@@ -66,12 +78,12 @@ ul a:hover {
     color: #e10068;
 }
 
-.current {
+.active {
     background: #e10068;
     border-radius: 0 0 17% 17%;
 }
 
-.current:hover {
+.active:hover {
     color: #fff;
 }
 
@@ -229,6 +241,21 @@ ul a:hover {
 img {
     margin-top: 0.9375rem;
 }
+.testimonial {
+    padding-bottom: 3rem;
+    color: #2c4157;
+  
+}
+.name, .company {
+    text-align:center;
+}
+
+.testimonial p:first-child:before {
+    content: ' “ ';
+    color: deeppink;
+    font-size: 1.5rem;
+}
+
 
 /*********** FOOTER STYLES *********************/
 

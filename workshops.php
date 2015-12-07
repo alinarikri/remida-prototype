@@ -6,11 +6,14 @@
 
    <div class="featured-image">
           <div class="row vertical-centering">
-          <h1 class="special-font">Workshops </h1>
-          <p>Come and be creative</p>
-        </div>
+                
+                  <h1>Workshops </h1>
+                  <p>Come and <span class="special-font">be creative</span></p>
+            
+       </div>
 
     </div>
+    
     <div class="row">
        <div class="small-11 columns">
            <nav aria-label="You are here:" role="navigation">

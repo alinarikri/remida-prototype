@@ -44,5 +44,18 @@
     <script src="/remida-prototype/js/foundation.min.js"></script>
 <!--    <script src="/remida-prototype/js/app.js"></script>-->
  <script>$(document).foundation();</script>
+ <script>
+$(document).ready(function () {
+    
+//    var currentSection = 0;
+    
+    $('#main-nav li a').click(function() {
+        
+        $('#main-nav li a').removeClass(active);
+        $(this).addClass('active');
+    });
+});
+
+</script>
   </body>
 </html>
