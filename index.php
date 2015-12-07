@@ -55,11 +55,10 @@
       
  <div id="third-section">
         <div class="row">
-            <div class="small-10 large-8 columns">
+            <div class="small-10 medium-8 large-8 columns">
                 <h2>Who can come?</h2>
-                <p class="lead">
-                   Young and old! Everyone who is interested in being creative</p>
-                <p>Come to the center and discover your creativity and your imagination. we have plenty of materials and tools waiting for you.</p>
+                <p class="lead">Everyone who is interested in being creative.</p>
+                <p>Come to the center and discover your creativity and your imagination. At ReMida we have open day events, where everyone is welcome! First time does not require membership. We have plenty of materials and tools waiting for you.</p>
             </div>
             <div class="small-11 medium-4 large-4 columns end">
                 <h4>Upcomming event: Family days</h4>

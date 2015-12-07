@@ -6,7 +6,6 @@
 */
 
 /* debuging styles, remove when done*/
-/*
 .row {
     outline: 1px dashed white;
 }
@@ -15,7 +14,6 @@
     outline: 1px dashed red;
     outline-offset: -5px;
 }
-*/
 /*************************************
         General styles
 *****************************************/
@@ -51,6 +49,12 @@ main {
     background: transparent;
 }
 
+@media (max-width: 320px) {
+    .top-bar-right li a {
+        padding: .5rem;
+    }
+}
+
 ul a {
     color: #fff;
     transition: ease-in-out, color .5s;
@@ -82,11 +86,11 @@ ul a:hover {
 
 .top-bar-right {
     margin-top: -55px; /* works for 980, 768 widths*/
-    margin-left: calc(100% - 180px); /* Pushes menu to the right, works well on different widths*/
+    margin-left: calc(100% - 140px); /* Pushes menu to the right, works well on different widths*/
 }
 
 @media (min-width:1024px) {
-    .top-bar-right { margin-top: -95px; } /* */
+    .top-bar-right { margin-top: -93px; } /* */
 }
 
 
@@ -144,10 +148,13 @@ ul a:hover {
 
 
 #front-section {
-    background-color: #182430; /* dark navy */
-    background-size: cover;
+/*    background-image: url(../img/boy_new_overlay.png);*/
+/*     background-image: url(../img/boy_new.png);*/
     background-repeat: no-repeat;
-    background-position: -600px 0;
+    background-color: #182430; /* dark navy */
+/*    background-size: cover;*/
+   
+/*    background-position: -600px 0;*/
     height: 60vh;
     color: #fff;
     display: flex;

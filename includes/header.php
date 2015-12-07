@@ -20,20 +20,32 @@
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=345313962221747";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+</script>
 
-<!-- Responsive navigation toggle -->
-<div class="title-bar" data-responsive-toggle="main-nav" data-hide-for="large">
-  <button class="menu-icon" type="button" data-toggle></button>
-  <div class="title-bar-title">Menu</div>
-  
+<!-- Responsive navigation toggle 
+contains menu and a logo in the middle
+-->
+<div class="row title-bar" data-responsive-toggle="main-nav" data-hide-for="large">
+    <div class="small-5 columns">
+        <div class="title-bar" >
+          <button class="menu-icon" type="button" data-toggle></button>
+          <div class="title-bar-title">Menu</div>
+        </div>
+    </div>
+
+    <div class="small-2 columns end">
+        <img  src="/remida-prototype/img/remida-logo.png" alt="Remida logo">
+    </div>
+
 </div>
+
 <!-- This is the nav that is shown on large scrcreen px 1024 and bigger-->
  <div class="top-bar">
   <div id="main-nav" class="top-bar-left">
     <ul class="vertical large-horizontal dropdown menu" data-dropdown-menu>
       <li class="menu-text"><a href="/remida-prototype//index.php">
-          <img  src="/remida-prototype/img/remida-logo.png" alt="remida logo" id="logo"></a></li>
+          <img  class="show-for-large" src="/remida-prototype/img/remida-logo.png" alt="remida logo" id="logo"></a></li>
       <li>
         <a href="/remida-prototype/workshops.php">Workshops</a>
 <!--
@@ -59,14 +71,15 @@
       <li><a href="#">Contact</a></li>
     </ul>
      </div>
-</div>
-<div class="top-bar-right">
+      
+       <div class="top-bar-right">
     <ul class="menu">
       <li><a href="https://www.facebook.com/ReMida-Center-Odense-center-for-kreativt-genbrug-243182275732814/?fref=ts"><i class="fa fa-facebook"></i></a>         </li>
       <li><a href=""><i class="fa fa-youtube"></i></a></li>
       <li><a href="#"><i class="fa fa-instagram"></i>
 </a></li>
     </ul>
-  </div>
+</div> 
+</div>
 
 
