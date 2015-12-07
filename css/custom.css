@@ -6,6 +6,7 @@
 */
 
 /* debuging styles, remove when done*/
+/*
 .row {
     outline: 1px dashed white;
 }
@@ -14,6 +15,7 @@
     outline: 1px dashed red;
     outline-offset: -5px;
 }
+*/
 /*************************************
         General styles
 *****************************************/
@@ -66,7 +68,6 @@ ul a:hover {
 
 .current {
     background: #e10068;
-    color: #fff;
     border-radius: 0 0 17% 17%;
 }
 
@@ -85,14 +86,19 @@ ul a:hover {
 }
 
 .top-bar-right {
-    margin-top: -55px; /* works for 980, 768 widths*/
+   margin-top: -100px;
     margin-left: calc(100% - 140px); /* Pushes menu to the right, works well on different widths*/
 }
 
 @media (min-width:1024px) {
     .top-bar-right { margin-top: -93px; } /* */
 }
-
+@media (max-width: 480px) {
+    .top-bar-right{
+        margin-top: -55px; /* works for 320, 360 widths*/
+    }
+     
+}
 
 
 /***************** New button classes **************/
@@ -111,6 +117,7 @@ ul a:hover {
     text-align: center;
     transition: all 0.25s ease-out 0s;
     vertical-align: middle;
+    margin-top: 1.5rem;
 }
 
 .primary-btn:hover {
@@ -120,7 +127,25 @@ ul a:hover {
 }
 
 .secondary-btn {
-    
+    background: transpetent none repeat scroll 0 0;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 0.9rem;
+    line-height: 1;
+    margin: 0 1rem 1rem 0;
+    padding: 0.85em 1em;
+    text-align: center;
+    transition: all 0.25s ease-out 0s;
+    vertical-align: middle;
+    margin-top: 1.5rem;
+}
+
+.secondary-btn:hover {
+    background: #fff;
+    color: #4cbcc0;
 }
 /**************************************************/
 
@@ -183,6 +208,9 @@ ul a:hover {
     padding: 3rem 0;
     color: #182430;
 }
+#sponsors h2, #sponsors p {
+    text-align: center;
+}
 .border-top {
     border-top: 6px solid #e10086; 
 }
@@ -205,9 +233,8 @@ img {
 /*********** FOOTER STYLES *********************/
 
 #page-footer {
-    margin-top: 3rem;
     background: #182830;
-    padding-top: 2rem;
+    padding-top: 3rem;
 }
 
 .breadcrumbs {

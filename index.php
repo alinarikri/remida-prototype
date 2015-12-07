@@ -17,11 +17,11 @@
                 <div class="small-12 medium-4 large-4 columns card">
                    <div class="row">
                        <div class="small-12 small-centered columns">
-                           <img class="border-top" src="img/building@1,5x.png" alt="remida building from outside">
+                           <img class="border-top" src="img/workshop@1,5x.jpg" alt="remida building from outside">
                        </div>
                    </div>
                     <h2>Workshops</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente asperiores rerum repudiandae excepturi at assumenda iusto dolorum totam aperiam! Nobis, eaque illum omnis. Consequuntur a, ab quis, amet placeat voluptatem.</p>
+                <p>Discover where your creativity can take you! Create a town or the whole world. Can you make happyness? we organize workshops for both schools and companies on wide range of topics.</p>
                 <p><a href="workshops.php" >Read about workshops</a></p>  
 
             </div>
@@ -33,9 +33,9 @@
                        </div>
                    </div>
                 <h2>Our Story</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos fugit rem suscipit, praesentium quis voluptas quam ab repellendus corporis molestias, laudantium tempore unde quia dolorum quos debitis consequuntur deserunt vel.
+                <p>ReMida &mdash; a unique sustainability project focused of creativity, education and people. We are called after ancient greek god Midas, who could turn to gold everything he touched. ReMida is the place where materials turn to gold.
                 </p>
-                <p><a href="#" >Read about ReMida</a></p>
+                <p><a class="secondary-btn" href="#" >Read about ReMida</a></p>
             </div>
             
             <div class="small-12 medium-4 large-4 columns end card ">
@@ -45,10 +45,9 @@
                        </div>
                    </div>
             <h2>Sponsors</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa numquam, eum distinctio molestias obcaecati quia vero nisi non assumenda. Omnis nostrum qui officia, sint cupiditate? Iusto dolor, dicta ducimus distinctio!</p>
-
+            <p>Are you looking for ways to expand your CSR initiatives? Become a supporter of sustainability and creativity. At ReMida we have a lot of opportunities to ofer for your company and how you can be part of it.</p>
             
-            <p><a href="#">Learn more</a></p>
+            <p><a class="secondary-btn" href="#">Learn more</a></p>
             </div>
          </div>
       </div>
@@ -59,6 +58,8 @@
                 <h2>Who can come?</h2>
                 <p class="lead">Everyone who is interested in being creative.</p>
                 <p>Come to the center and discover your creativity and your imagination. At ReMida we have open day events, where everyone is welcome! First time does not require membership. We have plenty of materials and tools waiting for you.</p>
+                <p>Our members can come and pick up materials to be used at home or class. </p>
+                <p><a class="secondary-btn" href="">Become a member</a></p>
             </div>
             <div class="small-11 medium-4 large-4 columns end">
                 <h4>Upcomming event: Family days</h4>
@@ -73,7 +74,7 @@
         <div class="row">
             <div class="small-10 large-12 columns">
                 <h2>Our major sponsors</h2>
-                <p>No sponsors&mdash;no ReMida center</p>
+                <p>No sponsors&mdash;no ReMida center! A huge thanks for our biggest center supporters:</p>
                 <div class="row">
                     <div class="small-3 large-3 columns">
                         <img src="img/sponsors/logo-large-bilka.png" alt="Bilka logo">
@@ -90,8 +91,8 @@
                 </div>
                 
                 <div class="row">
-                    <div class="small-12 columns">
-                        <p><a class="button ghost-button" href="companies.php">Become a sponsor</a></p>
+                    <div class="small-4 small-centered columns">
+                        <p><a class="primary-btn" href="companies.php">Become a sponsor</a></p>
                     </div>
                 </div>
             </div>

@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
@@ -46,7 +47,10 @@ contains menu and a logo in the middle
     <ul class="vertical large-horizontal dropdown menu" data-dropdown-menu>
       <li class="menu-text"><a href="/remida-prototype//index.php">
           <img  class="show-for-large" src="/remida-prototype/img/remida-logo.png" alt="remida logo" id="logo"></a></li>
-      <li>
+    <li> 
+        
+  
+       
         <a href="/remida-prototype/workshops.php">Workshops</a>
 <!--
         <ul class="submenu menu vertical" data-submenu>
@@ -65,9 +69,9 @@ contains menu and a logo in the middle
         </ul>
 -->
       </li>
-      <li><a href="/remida-prototype/companies.php">For companies</a></li>
+      <li  class="current"><a href="/remida-prototype/companies.php">For companies</a></li>
       <li><a href="/remida-prototype/memberships.php">Be our member</a></li>
-      <li class="current"><a href="#">Blog</a></li>
+      <li><a href="#">Blog</a></li>
       <li><a href="#">Contact</a></li>
     </ul>
      </div>

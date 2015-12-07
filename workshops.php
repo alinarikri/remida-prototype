@@ -1,3 +1,4 @@
+<?php  $page_name = 'workshops'?>
 
   
    <?php require 'includes/header.php'; ?>

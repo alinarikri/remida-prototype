@@ -15,8 +15,8 @@
              <ul>
                  <li><a href="#">Pick up materials</a></li>
                  <li><a href="#">Visit center</a></li>
-                 <li><a href="#">Another link</a></li>
-                 <li><a href="#">Another link 2</a></li>
+                 <li><a href="#">Become member</a></li>
+                 <li><a href="#">Become volunteer</a></li>
              </ul>
          </div>
          <div id="facebook-page" class="small-11 medium-4 large-4 columns end">
