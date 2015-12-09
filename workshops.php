@@ -40,14 +40,43 @@
     </div>
     <div class="small-10 medium-8 large-8 columns end">
         <h2>Workshops</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis velit, quidem qui ipsa, natus provident rerum ratione illo fuga, porro at quasi odio, inventore repellendus veniam reiciendis beatae explicabo dolores.</p>
-        <h3></h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium earum, odio laboriosam aliquid rerum esse nesciunt temporibus consequuntur, pariatur cum iste doloribus facilis ducimus expedita autem blanditiis ex beatae ab!</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero ex tenetur ab modi fuga placeat, velit iusto recusandae maxime ducimus odit vero incidunt in quam perspiciatis earum qui quisquam natus.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam quibusdam, illum, voluptatum distinctio incidunt rem quia dolore quam aperiam. Quos praesentium dolore aliquid alias veniam perspiciatis deserunt sit dicta, eius.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit deleniti quibusdam possimus consequatur accusantium non dicta itaque cupiditate, magnam, reiciendis repudiandae! Pariatur vero saepe nemo dignissimos nisi aliquam cum harum.</p>
-        <h3>Another headline</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis harum exercitationem, dolor, non soluta officia distinctio, eos cumque dolorum nulla a, inventore corrupti sed labore adipisci in! Vitae, necessitatibus, provident!</p>
+        <p>All courses are organized according to individual wishes. Both the duration and contents to be agreed in advance. One course lasts 2-3 hours. Upon arrival at the center get the group a short tour and introduction to the day's theme, as previously decided in cooperation with the teacher. This could be " Order and disorder" or "Dreams" or "Invisible borders " - and from these cues are participants in the process of creating their own interpretation of the theme. With glue guns and 100's of different materials realized the participants' thoughts and ideas.</p>
+        <h3>Our educators</h3>
+        <div class="row">
+            <div class="small-6 columns">
+                <h4>Karin Eskesen</h4>
+                <p>Karin Eskesen is the initiator of REMIDA centers in Denmark and the Danish Reggio Emilia network. She is also chairman of both the centers and the network.</p>
+                
+                <ul>Responsibilities:
+
+    <li>Educational development projects in schools and institutions</li>
+    <li>Advising architects , municipalities, educators and teachers in relation to the building and rebuilding of schools and institutions.</li>
+    <li>The room's decor and choice of teaching materials related to the teaching and learning processes.
+    adult Education</li>
+           
+           </ul>
+           
+            </div>
+            <div class="small-6 columns end">
+                <h4>Ole Lambertsen</h4>
+                <p>Ole trained artist, art teacher and art therapist. He has worked with art education and communication since 1975. Ole has many years of experience in working with children and young people about art. Værkstedsforløbene with Ole on REMIDA center will often have one of the art forms of expression as a springboard, but the projects given a content arising in a idesnak between you and Ole. Ole often uses the visual expression in the words and stories by letting children put words on the articles and materials they work with .</p>
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-6 columns">
+                <h4>Kåre Runge</h4>
+                <p>Kare trained primary school teacher from Odense College with compulsory courses in social studies and geography. After teaching at Brenderup suburban Grammar School , took Kåre first 5 years to Italy , adultery he taught at the school Centro Educativo Italo - Svizero in Rimini . The school is a public school , but with children with special rights / needs. One of the five years in Italy lived Kåre in Reggio Emilia, where he studied the organization within the Reggio Emilia educational field.</p> 
+            </div>
+          
+            <div class="small-6 columns">
+                <h4>Camilla Sand Hansen</h4>
+                <p>Camilla er uddannet håndarbejdslærer fra Seminariet for kunst og håndværk i Kerteminde. Det var dog ikke i så høj grad håndarbejde, Camilla havde fokus på, men keramik, som er Camillas hovedfag, og skulptur, som er hendes bifag. Det var også her, Camilla første gang stiftede bekendtskab med Reggio Emilia-pædagogikken og det kreative arbejde i ReMida. Efter sin uddannelse fra seminaret for Kunst og Håndværk i Kerteminde har Camilla yderligere uddannet sig som kunstpædagog.</p>
+            </div>
+            
+        </div>
+        
+        
     </div>
 </div>
    

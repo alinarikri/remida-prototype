@@ -30,7 +30,7 @@
         </ul>
                        
     </div>
-<main>
+
         <div class="small-10 medium-8 large-8 columns end">
         <h2>Unique concept: sustainability with education</h2>
         <p class="lead">
@@ -39,7 +39,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore id dignissimos corrupti, repellat quaerat necessitatibus voluptates animi officia voluptas nemo, debitis perspiciatis illo. Eos voluptas ab earum in unde, ipsam!</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus recusandae dicta nihil ad, magnam culpa odit id ut obcaecati! Natus illum dolorem distinctio obcaecati sit non dolores consequatur velit eligendi?</p>
     </div>
-</main>
+
 </div>
  
 <?php include 'includes/footer.php'?>
