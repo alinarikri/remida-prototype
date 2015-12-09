@@ -5,9 +5,9 @@
 <!-- Page main content -->
    <div class="featured-image">
           <div class="row vertical-centering">
-          <div class="small-11 small-centered columns">
+          <div class="small-11 small-centered large-10 columns">
               
-                  <h1><span class="special-font">Partnerships</span><br> that matter</h1>
+                  <h1>Partnerships that matter</h1>
                   <p>Sponsor creativity, innovation and environment</p>
             
           </div>
@@ -58,9 +58,11 @@
 
            <div class="small-12 large-6 columns">
                 
-                <h4>Gold</h4>
+              <div class="callout border-top">
+                    <h4>Gold</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsum quam delectus quisquam dolores quae? Obcaecati incidunt laborum tempore non quis delectus quos officiis, inventore nihil hic atque, illo tempora.</p>
                 <p><a data-open="sponsorForm">Get more details</a></p>
+              </div>
                
            </div>
         
@@ -69,7 +71,7 @@
        <div class="row">
            
            <div class="small-12 large-6 columns">
-                <div class="callout">
+                <div class="callout border-top">
                 <h4>Silver</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sunt explicabo fugit expedita unde modi dignissimos omnis quae! Blanditiis eius velit perspiciatis incidunt eaque non in dicta adipisci repellendus quis.</p>
                 <p><a data-toggle="sponsorForm">Become a sponsor</a></p>
@@ -77,7 +79,7 @@
            </div>
             
         <div class="small-12 large-6 columns end">
-            <div class="callout">
+            <div class="callout border-top">
                 <h4>Bronze</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sunt explicabo fugit expedita unde modi dignissimos omnis quae! Blanditiis eius velit perspiciatis incidunt eaque non in dicta adipisci repellendus quis.</p>
                 <p><a data-toggle="membershipForm">Become a sponsor</a></p>
@@ -88,7 +90,7 @@
             
          <div class="row">
               <div class="small-11 large-12 columns">
-                <div class="callout">
+                <div class="callout border-top">
                         <h4>Are you looking for a way to get rid of your overproduction?</h4>
                         <p>Your overproduction will get new life in our center. We are happy to take all sorts of different materials: big and small, few and many, new or used. Contact us if you have questions.</p>
                         <p><a data-toggle="sponsorForm">Become a sponsor</a></p>

@@ -2,7 +2,7 @@
   
  <div class="featured-image">
           <div class="row vertical-centering">
-             <h1><span class="special-font">Our story</span> </h1>
+             <h1>Our story</h1>
           <p>When sustainability, education and creativity come together!</p>
         </div>
 </div>

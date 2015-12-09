@@ -7,8 +7,8 @@
    <div class="featured-image">
           <div class="row vertical-centering">
           <div class="small-12 large-12 columns">
-              <h1><span class="special-font">Get involved</span></h1>
-          <p>Become a member and unlock your creativity</p>
+              <h1>Get involved</span></h1>
+          <p>Become a member and unlock your <span class="special-font">creativity</span></p>
           </div>
         </div>
 
@@ -41,7 +41,7 @@
     </div>
     <div class="row">
        <div class="medium-4 columns">
-            <div class="callout">
+            <div class="callout border-top">
             <h4>Schools</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor odio itaque at, sint quasi non aliquid beatae cum possimus eveniet blanditiis ullam placeat aliquam suscipit optio explicabo repudiandae fugiat deleniti.</p>
             <p>1000kr. per year</p>
@@ -49,7 +49,7 @@
         </div>
        </div>
         <div class="medium-4 columns">
-            <div class="callout">
+            <div class="callout border-top">
             <h4>Kindergartens</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsum quam delectus quisquam dolores quae? Obcaecati incidunt laborum tempore non quis delectus quos officiis, inventore nihil hic atque, illo tempora.</p>
             <p>500kr. per year</p>
@@ -57,7 +57,7 @@
         </div>
         </div>
         <div class="medium-4 columns">
-               <div class="callout">
+               <div class="callout border-top">
             <h4>Family</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sunt explicabo fugit expedita unde modi dignissimos omnis quae! Blanditiis eius velit perspiciatis incidunt eaque non in dicta adipisci repellendus quis.</p>
             <p>180kr. per year</p>

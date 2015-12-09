@@ -2,10 +2,12 @@
     <div class="row" >
          <div class="small-11 medium-8 large-4 columns">
             <div class="row">
-                <div class="small-8 small-centered columns">
+                <div class="small-4 small-centered columns">
                     <img src="/remida-prototype/img/remida-logo.png" alt="Remida Logo">
                 </div>
-            <p>Center for creativ recycling</p>
+            <div class="small-10 small centered columns">
+                <p>Center for creativ recycling</p>
+            </div>
             </div>
             
              
@@ -45,18 +47,8 @@
     <script src="/remida-prototype/js/foundation.min.js"></script>
 <!--    <script src="/remida-prototype/js/app.js"></script>-->
  <script>$(document).foundation();</script>
- <script>
-$(document).ready(function () {
-    
-//    var currentSection = 0;
-    
-    $('#main-nav li a').click(function() {
-        
-        $('#main-nav li a').removeClass(active);
-        $(this).addClass('active');
-    });
-});
 
-</script>
+
+
   </body>
 </html>

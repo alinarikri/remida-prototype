@@ -3,7 +3,7 @@
 
    <div id="front-section">
           <div class="row vertical-centering">
-          <div class="small-11 small-centered large-10 columns">
+          <div class="small-11 small-offset-4 medium-6 large-6 columns">
               <h1>Center for <span class="special-font">creative recycling </span> </h1>
               <p class="lead">Where surplus materials come to life! Come and experience where your creativity</span> can take you.</p>
               <p><a class="primary-btn" href="#second-section">Explore Remida</a></p>

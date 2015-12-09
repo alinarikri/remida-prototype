@@ -6,6 +6,7 @@
 */
 
 /* debuging styles, remove when done*/
+/*
 .row {
     outline: 1px dashed blue;
 }
@@ -14,6 +15,7 @@
     outline: 1px dashed red;
     outline-offset: -5px;
 }
+*/
 /*************************************
         General styles
 *****************************************/
@@ -138,7 +140,6 @@ ul a:hover {
 
 .primary-btn:hover {
     background: #e10068;
-/*    border: 1px solid white;*/
     color: #fff;   
 }
 
@@ -174,9 +175,13 @@ ul a:hover {
 }
 
 .featured-image {
-    height: 40vh;
+    height: 45vh;
     background: #182430;
     display: flex;
+}
+.overline {
+    background-image: url(../img/overline.png);
+    background-repeat: no-repeat;
 }
 
 .featured-image h1, .featured-image h2, .featured-image p {
@@ -187,9 +192,16 @@ ul a:hover {
     align-items: center;
     justify-content: center;
     margin: auto;
-/*    background: rgba(16, 23, 31, .7);  background for debugging purposes*/
+   
 }
 
+.vertical-centering h1:before {
+    content: "";
+    display: block;
+    height: .9vh;
+    width: 10vw;
+    background: #e10068;
+}
 
 #front-section {
 /*    background-image: url(../img/boy_new_overlay.png);*/
@@ -197,11 +209,14 @@ ul a:hover {
     background-repeat: no-repeat;
     background-color: #182430; /* dark navy */
     background-size: contain;
-   
-/*    background-position: -600px 0;*/
+    background-position: -35vw -2vh;
     height: 100vh;
     color: #fff;
     display: flex;
+}
+
+#front-section .vertical-centering {
+     background: rgba(16, 23, 31, .3);
 }
 
 #second-section, #third-section, #fourth-section, #page-footer {
@@ -274,6 +289,20 @@ img {
 #page-footer {
     background: #182830;
     padding-top: 3rem;
+}
+
+#page-footer ul li {
+    list-style: none;
+}
+
+#page-footer ul li:before {
+    content: "";
+    display:block;
+    background:url(../img/overline.png) no-repeat;
+    width: 7px;
+    height: 3px;
+    position: relative;
+    top: 15px; left: -20px;
 }
 
 .breadcrumbs {
