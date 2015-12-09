@@ -78,7 +78,7 @@
  </div> 
  <div id="sponsors">
         <div class="row">
-            <div class="small-10 large-12 columns">
+            <div class="small-10 small-centered large-12 columns">
                 <h2>Our major sponsors</h2>
                 <p>No sponsors&mdash;no ReMida center! A huge thanks for our biggest center supporters:</p>
                 <div class="row">
