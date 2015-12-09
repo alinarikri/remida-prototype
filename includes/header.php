@@ -36,7 +36,8 @@ contains menu and a logo in the middle
     </div>
 
     <div class="small-2 columns end">
-        <img  src="/remida-prototype/img/remida-logo.png" alt="Remida logo">
+        <a href="index.php">        
+            <img  src="/remida-prototype/img/remida-logo.png" alt="Remida logo"></a>    
     </div>
 
 </div>

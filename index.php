@@ -35,7 +35,7 @@
                 <h2>Our Story</h2>
                 <p>ReMida &mdash; a unique sustainability project focused of creativity, education and people. We are called after ancient greek god Midas, who could turn to gold everything he touched. ReMida is the place where materials turn to gold.
                 </p>
-                <p><a class="secondary-btn" href="#" >Read about ReMida</a></p>
+                <p><a class="secondary-btn" href="our-story.php" >Read about ReMida</a></p>
             </div>
             
             <div class="small-12 medium-4 large-4 columns end card ">
@@ -47,7 +47,7 @@
             <h2>Sponsors</h2>
             <p>Are you looking for ways to expand your CSR initiatives? Become a supporter of sustainability and creativity. At ReMida we have a lot of opportunities to ofer for your company and how you can be part of it.</p>
             
-            <p><a class="secondary-btn" href="#">Learn more</a></p>
+            <p><a class="secondary-btn" href="companies.php">Learn more</a></p>
             </div>
          </div>
       </div>
@@ -70,7 +70,7 @@
             <div class="small-11 medium-4 large-4 columns end">
                 <h4>Upcomming event: Family days</h4>
                 <div class="flex-video">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/V9gkYw35Vws" frameborder="0" allowfullscreen></iframe>
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/_depb6EY5O0" frameborder="0" allowfullscreen></iframe>
 </div>
             </div>
             </div>

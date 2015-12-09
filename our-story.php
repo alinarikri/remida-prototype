@@ -32,12 +32,17 @@
     </div>
 
         <div class="small-10 medium-8 large-8 columns end">
-        <h2>Unique concept: sustainability with education</h2>
+        <h2>A cultural sustainability with pedagogical creativity</h2>
         <p class="lead">
-            Concept developed in Italy, little town Reggio Emilia.
+            REMIDA is a cultural project, which stands for a new, optimistic and proactive way to relate to the environment by giving value to discarded materials, defective batches and other things that may seem worthless.
         </p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore id dignissimos corrupti, repellat quaerat necessitatibus voluptates animi officia voluptas nemo, debitis perspiciatis illo. Eos voluptas ab earum in unde, ipsam!</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus recusandae dicta nihil ad, magnam culpa odit id ut obcaecati! Natus illum dolorem distinctio obcaecati sit non dolores consequatur velit eligendi?</p>
+        
+        <p>
+In the process of working with REMIDA material fostered new opportunities for communication and creativity, thus creating a respect for materials, the environment and fellow human beings.</p>
+
+<h3>Surplus of materials options</h3>
+
+<p>REMIDA center receives surplus materials from local businesses. It may be surplus production, production errors, or a residue. It can also be shoeboxes from a skotøjsbutik, gizmos consignments computer parts and more. The materials stored in REMIDA Center Odense, and visitors can with their creativity and imagination give things new life.</p>
     </div>
 
 </div>
