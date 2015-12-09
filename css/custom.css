@@ -6,16 +6,14 @@
 */
 
 /* debuging styles, remove when done*/
-/*
 .row {
-    outline: 1px dashed white;
+    outline: 1px dashed blue;
 }
 
 .columns {
     outline: 1px dashed red;
     outline-offset: -5px;
 }
-*/
 /*************************************
         General styles
 *****************************************/
@@ -41,24 +39,22 @@ main {
 
 @media (min-width: 640px) and  (max-width:801px) {
     h2 {
-        font-size: 1.75rem;
+        font-size: 170%;
     }
     p {
         font-size: 90%;
     }
+    .lead {
+    padding-bottom: 1rem;
+    line-height: 1.3;
+    }
 }
 
-main {
-    padding-bottom: 3rem;
-}
 
 .lead {
     padding-bottom: 1.5rem;
 }
-.callout {
-    height: 300px;
-    padding-top: 1.5rem;
-}
+
 
 /***************************************** 
         Navigation styling 
@@ -269,7 +265,7 @@ img {
 
 @media (max-width: 640px) {
     .lead {
-        font-size: 95%;
+        font-size: 110%;
     }
 }
 
