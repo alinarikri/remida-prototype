@@ -7,7 +7,7 @@
           <div class="row vertical-centering">
           <div class="small-11 small-centered columns">
               
-                  <h1>Partnerships that matter</h1>
+                  <h1><span class="special-font">Partnerships</span><br> that matter</h1>
                   <p>Sponsor creativity, innovation and environment</p>
             
           </div>
@@ -40,23 +40,28 @@
             </div>
     
     <!--        SPONSORSHIP PLANS SECTION -->
+        <div class="row">
+            <div class="small-12 large-6 column">
+               <h3>Sponsorship opportunities</h3>
+           </div>
+        </div>
            
        <div class="row">
-           
             <div class="small-12 large-6 columns">
-                <div class="callout">
+                <div class="callout border-top">
                 <h4>Diamond</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor odio itaque at, sint quasi non aliquid beatae cum possimus eveniet blanditiis ullam placeat aliquam suscipit optio explicabo repudiandae fugiat deleniti.</p>
-                <p><a data-open="sponsorForm">Become a sponsor</a></p>
+                <p>Your company will get maximum exposure in our events, print material and on the website. </p>
+                <p>25.000 kr. per year</p>
+                <p><a data-open="sponsorForm">Get more details</a></p>
                 </div>
             </div>
 
            <div class="small-12 large-6 columns">
-                <div class="callout">
+                
                 <h4>Gold</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsum quam delectus quisquam dolores quae? Obcaecati incidunt laborum tempore non quis delectus quos officiis, inventore nihil hic atque, illo tempora.</p>
-                <p><a data-open="sponsorForm">Become a sponsor</a></p>
-                </div>
+                <p><a data-open="sponsorForm">Get more details</a></p>
+               
            </div>
         
        </div>

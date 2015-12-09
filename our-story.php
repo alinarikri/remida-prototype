@@ -2,8 +2,8 @@
   
  <div class="featured-image">
           <div class="row vertical-centering">
-             <h1>Our story </h1>
-          <p>Idea comes from Italy</p>
+             <h1><span class="special-font">Our story</span> </h1>
+          <p>When sustainability, education and creativity come together!</p>
         </div>
 </div>
     
@@ -37,10 +37,9 @@
             REMIDA is a cultural project, which stands for a new, optimistic and proactive way to relate to the environment by giving value to discarded materials, defective batches and other things that may seem worthless.
         </p>
         
-        <p>
-In the process of working with REMIDA material fostered new opportunities for communication and creativity, thus creating a respect for materials, the environment and fellow human beings.</p>
+        <p>In the process of working with REMIDA material fostered new opportunities for communication and creativity, thus creating a respect for materials, the environment and fellow human beings.</p>
 
-<h3>Surplus of materials options</h3>
+<h3>Surplus of materials opportunities</h3>
 
 <p>REMIDA center receives surplus materials from local businesses. It may be surplus production, production errors, or a residue. It can also be shoeboxes from a skotøjsbutik, gizmos consignments computer parts and more. The materials stored in REMIDA Center Odense, and visitors can with their creativity and imagination give things new life.</p>
     </div>

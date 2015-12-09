@@ -179,8 +179,12 @@ ul a:hover {
 
 .featured-image {
     height: 40vh;
-    background: #fbf8f4;
+    background: #182430;
     display: flex;
+}
+
+.featured-image h1, .featured-image h2, .featured-image p {
+    color: #fff;
 }
 
 .vertical-centering {
@@ -193,13 +197,13 @@ ul a:hover {
 
 #front-section {
 /*    background-image: url(../img/boy_new_overlay.png);*/
-/*     background-image: url(../img/kidddd.png);*/
+    background-image: url(../img/kidddd.png);
     background-repeat: no-repeat;
     background-color: #182430; /* dark navy */
-/*    background-size: contain;*/
+    background-size: contain;
    
 /*    background-position: -600px 0;*/
-    height: 60vh;
+    height: 100vh;
     color: #fff;
     display: flex;
 }
