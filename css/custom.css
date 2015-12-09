@@ -1,7 +1,7 @@
 /* Style guide
 #182430 – dark navy, 
 #e10068 – bright pink and 
-#4cbcc0 - bright blue
+#4cbcc0 - moderate magenta
 
 */
 
@@ -124,17 +124,15 @@ ul a:hover {
     display: inline-block;
     font-size: 0.9rem;
     line-height: 1;
-    margin: 0 1rem 1rem 0;
     padding: 0.85em 1em;
     text-align: center;
     transition: all 0.25s ease-out 0s;
     vertical-align: middle;
-    margin-top: 1.5rem;
 }
 
 .primary-btn:hover {
-    background: none;
-    border: 1px solid white;
+    background: #e10068;
+/*    border: 1px solid white;*/
     color: #fff;   
 }
 
@@ -147,7 +145,6 @@ ul a:hover {
     display: inline-block;
     font-size: 0.9rem;
     line-height: 1;
-    margin: 0 1rem 1rem 0;
     padding: 0.85em 1em;
     text-align: center;
     transition: all 0.25s ease-out 0s;
@@ -171,7 +168,7 @@ ul a:hover {
 }
 
 .featured-image {
-    height: 30vh;
+    height: 40vh;
     background: #fbf8f4;
     display: flex;
 }
@@ -186,10 +183,10 @@ ul a:hover {
 
 #front-section {
 /*    background-image: url(../img/boy_new_overlay.png);*/
-/*     background-image: url(../img/boy_new.png);*/
+/*     background-image: url(../img/kidddd.png);*/
     background-repeat: no-repeat;
     background-color: #182430; /* dark navy */
-/*    background-size: cover;*/
+/*    background-size: contain;*/
    
 /*    background-position: -600px 0;*/
     height: 60vh;
@@ -256,6 +253,11 @@ img {
     font-size: 1.5rem;
 }
 
+@media (max-width: 640px) {
+    .lead {
+        font-size: 95%;
+    }
+}
 
 /*********** FOOTER STYLES *********************/
 

@@ -22,7 +22,7 @@
                    </div>
                     <h2>Workshops</h2>
                 <p>Discover where your creativity can take you! Create a town or the whole world. Can you make happyness? we organize workshops for both schools and companies on wide range of topics.</p>
-                <p><a href="workshops.php" >Read about workshops</a></p>  
+                <p><a class="secondary-btn" href="workshops.php" >Read about workshops</a></p>  
 
             </div>
 
