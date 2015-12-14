@@ -6,7 +6,6 @@
 */
 
 /* debuging styles, remove when done*/
-/*
 .row {
     outline: 1px dashed blue;
 }
@@ -15,7 +14,6 @@
     outline: 1px dashed red;
     outline-offset: -5px;
 }
-*/
 /*************************************
         General styles
 *****************************************/
@@ -244,6 +242,10 @@ ul a:hover {
 }
 #sponsors h2, #sponsors p {
     text-align: center;
+}
+
+#sponsors .primary-btn {
+    margin-top: .5rem;
 }
 .border-top {
     border-top: 6px solid #e10086; 

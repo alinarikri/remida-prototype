@@ -105,14 +105,14 @@
         
 <!--        TESTIMONIAL SECTION -->
         
-        <div class="small-11 large-4 columns testimonial">
+        <div class="small-11 medium-6 large-4 columns testimonial">
             
                 <p>ReMida is a good project because they focus on buy and throw&ndash;away&ndash;culture. Remida shows their members the value of materials and so affects our consumption behaviour. HOWE is very proud to support such work!</p>
                 <p class="name">Hele Rex</p>
                 <p class="company">HOWE A/S, CSR Manager</p>
            
         </div>
-          <div class="small-11 large-4 columns testimonial">
+          <div class="small-11 medium-6 large-4 columns testimonial">
            
                 <p>We as a production company are focusing on how we can reuse our materials. At ReMida it is done with creativity and fantasy, which is absolutely unique.</p>
                 <p class="name">Susen Hansen</p>
