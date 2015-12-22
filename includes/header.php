@@ -46,12 +46,12 @@ contains menu and a logo in the middle
  <div class="top-bar">
   <div id="main-nav" class="top-bar-left">
     <ul class="vertical large-horizontal dropdown menu" data-dropdown-menu>
-      <li class="menu-text"><a href="/remida-prototype//index.php">
-          <img  class="show-for-large" src="/remida-prototype/img/remida-logo.png" alt="remida logo" id="logo"></a></li>
-    <li> 
-        
+      <li class="menu-text">
+          <img  class="show-for-large" src="/remida-prototype/img/remida-logo.png" alt="remida logo" id="logo"></li>
+   
+        <li><a href="/remida-prototype/index.php">Forside</a></li>
   
-       
+        <li> 
         <a href="/remida-prototype/workshops.php">Workshops</a>
 <!--
         <ul class="submenu menu vertical" data-submenu>

@@ -77,6 +77,12 @@ main {
     }
 }
 
+@media (min-width: 1279px) {
+    #main-nav li:nth-child(2) {
+        padding-left: 3em;
+}
+}
+
 ul a {
     color: #fff;
     transition: ease-in-out, color .1s;
@@ -179,10 +185,7 @@ ul a:hover {
     background: #182430;
     display: flex;
 }
-.overline {
-    background-image: url(../img/overline.png);
-    background-repeat: no-repeat;
-}
+
 
 .featured-image h1, .featured-image h2, .featured-image p {
     color: #fff;
@@ -192,15 +195,18 @@ ul a:hover {
     align-items: center;
     justify-content: center;
     margin: auto;
+    padding: 2rem 0;
    
 }
 
+/* the pink line over headline */
 .vertical-centering h1:before {
     content: "";
     display: block;
     height: .9vh;
     width: 10vw;
     background: #e10068;
+    
 }
 
 #front-section {
@@ -209,7 +215,7 @@ ul a:hover {
     background-repeat: no-repeat;
     background-color: #182430; /* dark navy */
     background-size: contain;
-    background-position: -35vw -2vh;
+    background-position: -30vw -2vh;
     height: 100vh;
     color: #fff;
     display: flex;
