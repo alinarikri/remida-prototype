@@ -4,9 +4,9 @@
 <div class="row">
     
        
-                <div class="small-11 medium-3 columns">
+                <div id="footer-branding" class="small-11 medium-3 columns">
                     <img src="/remida-prototype/img/remida-logo.png" alt="Remida Logo">
-                    <p>Center for creativ recycling</p>
+                    <p>Center for creative recycling</p>
                 </div>
 
                 <div class="small-8 medium-3 columns">

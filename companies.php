@@ -89,7 +89,7 @@
             
             
          <div class="row">
-              <div class="small-11 large-12 columns">
+              <div class="small-12 large-12 columns">
                 <div class="callout border-top">
                         <h4>Are you looking for a way to get rid of your overproduction?</h4>
                         <p>Your overproduction will get new life in our center. We are happy to take all sorts of different materials: big and small, few and many, new or used. Contact us if you have questions.</p>

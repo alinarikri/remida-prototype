@@ -332,6 +332,15 @@ img {
     top: 15px; left: -20px;
 }
 
+#footer-branding {
+    text-align: center;
+}
+
+#footer-branding p {
+    margin-top: .975rem;
+    line-height: 1.3;
+}
+
 .breadcrumbs {
     padding-top: 1.5rem;
 }
