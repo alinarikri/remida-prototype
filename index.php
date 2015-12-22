@@ -87,7 +87,7 @@
             <div class="small-10 small-centered large-12 columns">
                 <h2>Our major sponsors</h2>
                 <p>No sponsors&mdash;no ReMida center! A huge thanks for our biggest center supporters:</p>
-                <div class="row">
+                <div id="sponsor-logos" class="row">
                     <div class="small-6 large-3 columns">
                         <img src="img/sponsors/logo-large-bilka.png" alt="Bilka logo">
                     </div>

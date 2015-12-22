@@ -4,7 +4,7 @@
    <?php require 'includes/header.php'; ?>
    
 
-   <div class="featured-image">
+   <div id="workshops" class="featured-image">
           <div class="row vertical-centering">
                 
                   <h1>Workshops </h1>
@@ -33,7 +33,7 @@
     <div class="small-2 large-3 columns">
         <ul class="vertical menu hide-for-small-only sidebar-nav" >
             <li><a href="workshop-ideas.php">Workshop ideas</a></li>
-            <li><a href="">Educators</a></li>
+<!--            <li><a href="">Educators</a></li>-->
             <li><a href="">Pricing</a></li>
         </ul>
                        

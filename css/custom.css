@@ -142,11 +142,21 @@ ul a:hover {
     text-align: center;
     transition: all 0.25s ease-out 0s;
     vertical-align: middle;
+    min-width: 30%;
+    
 }
 
 .primary-btn:hover {
     background: #e10068;
     color: #fff;   
+}
+
+@media (min-width: 767px) {
+    .primary-btn {
+        font-size: 1.1rem;
+        width: 50%;
+    
+    }
 }
 
 .secondary-btn {
@@ -254,7 +264,14 @@ ul a:hover {
 
 #sponsors .primary-btn {
     margin-top: .5rem;
+    box-shadow: 1px 1px 5px #dfdfdf;
 }
+
+#sponsor-logos {
+    padding: .975rem 0;
+}
+
+/* Class for pink border on images */
 .border-top {
     border-top: 6px solid #e10086; 
 }
