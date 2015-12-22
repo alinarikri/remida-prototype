@@ -3,7 +3,7 @@
    <?php require 'includes/header.php'; ?>
 
 <!-- Page main content -->
-   <div class="featured-image">
+   <div id="sponsors-featured" class="featured-image">
           <div class="row vertical-centering">
           <div class="small-11 small-centered large-10 columns">
               

@@ -311,6 +311,13 @@ img {
     }
 }
 
+#sponsors-featured {
+    background-image: url(../img/sponsors-featured-left.jpg);
+/*    background-position: top right;*/
+    background-repeat: no-repeat;
+    
+}
+
 /*********** FOOTER STYLES *********************/
 
 #page-footer {
