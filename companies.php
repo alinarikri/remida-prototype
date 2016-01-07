@@ -41,7 +41,7 @@
     
     <!--        SPONSORSHIP PLANS SECTION -->
         <div class="row">
-            <div class="small-12 large-6 column">
+            <div class="small-12 large-8 column">
                <h3>Sponsorship opportunities</h3>
            </div>
         </div>

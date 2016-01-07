@@ -190,6 +190,7 @@ ul a:hover {
     transform: skew(-2deg, -3deg);   
 }
 
+/* this class defines container for featured image, if there is no image, it provides fallback color*/
 .featured-image {
     height: 45vh;
     background: #182430;
@@ -206,7 +207,7 @@ ul a:hover {
     justify-content: center;
     margin: auto;
     padding: 2rem 0;
-   
+    background: rgba(16, 23, 31, 0.3)
 }
 
 /* the pink line over headline */
@@ -276,9 +277,10 @@ ul a:hover {
     border-top: 6px solid #e10086; 
 }
 
+
 .card {
     transition: ease-in-out, background 1s;
-     padding-bottom: 3rem;
+    padding-bottom: 3rem;
     
 }
 .card:hover {
@@ -313,11 +315,18 @@ img {
 
 #sponsors-featured {
     background-image: url(../img/sponsors-featured-left.jpg);
-/*    background-position: top right;*/
+/*    background-position: -25vw top;*/
+    background-position: left center;
     background-repeat: no-repeat;
-    
+/*    background-size: contain;*/
+    background-size: cover;
 }
 
+@media (min-width:1280px){
+    #sponsors-featured {
+        background-position: -10vw top;
+    }
+}
 /*********** FOOTER STYLES *********************/
 
 #page-footer {
