@@ -2,8 +2,10 @@
 <main>
  <div class="featured-image">
           <div class="row vertical-centering">
-          <h1>Workshop ideas </h1>
-          <p>Fire up your imagination</p>
+          <div class="small-11 small-centered large-10 columns">
+              <h1>Workshop ideas </h1>
+              <p>Fire up your imagination</p>
+          </div>
         </div>
 </div>
     
@@ -12,6 +14,7 @@
            <nav aria-label="You are here:" role="navigation">
           <ul class="breadcrumbs">
             <li><a href="index.php">Home</a></li>
+            <li><a href="workshops.php">Workshops</a></li>
             <li>
               <span class="show-for-sr">Current: </span> Workshop ideas
             </li>
@@ -24,8 +27,7 @@
     <div class="row">
     <div class="small-2 medium-3 large-3 columns">
         <ul class="vertical menu hide-for-small-only sidebar-nav" >
-            <li><a href="">Sidebar link</a></li>
-            <li class="active"><a href="">Workshop ideas</a></li>
+            <li><a href="">Workshop ideas</a></li>
             <li><a href="">Educators</a></li>
             <li><a href="">Pricing</a></li>
         </ul>

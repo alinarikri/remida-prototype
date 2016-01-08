@@ -6,10 +6,10 @@
 
    <div id="workshops" class="featured-image">
           <div class="row vertical-centering">
-                
+                <div class="small-11 small-centered large-10 columns">
                   <h1>Workshops </h1>
                   <p>Come and <span class="special-font">be creative</span></p>
-            
+              </div>
        </div>
 
     </div>
@@ -47,7 +47,7 @@
                 <h4>Karin Eskesen</h4>
                 <p>Karin Eskesen is the initiator of REMIDA centers in Denmark and the Danish Reggio Emilia network. She is also chairman of both the centers and the network.</p>
                 
-                <ul>Responsibilities:
+                <ul class="custom-bulleted-list">Responsibilities:
 
     <li>Educational development projects in schools and institutions</li>
     <li>Advising architects , municipalities, educators and teachers in relation to the building and rebuilding of schools and institutions.</li>

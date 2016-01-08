@@ -11,7 +11,7 @@
 
                 <div class="small-8 medium-3 columns">
                     <h4>Quick links</h4>
-                     <ul>
+                     <ul class="custom-bulleted-list">
                          <li><a href="#">Pick up materials</a></li>
                          <li><a href="#">Visit center</a></li>
                          <li><a href="#">Become member</a></li>

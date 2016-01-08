@@ -1,12 +1,11 @@
 
   
    <?php require 'includes/header.php'; ?>
-   <?php $page_name = 'Become a member';?>   <?php $page_name = 'Become a member';?>
 
 
    <div class="featured-image">
           <div class="row vertical-centering">
-          <div class="small-12 large-12 columns">
+          <div class="small-11 small-centered large-10 columns">
               <h1>Get involved</span></h1>
           <p>Become a member and unlock your <span class="special-font">creativity</span></p>
           </div>

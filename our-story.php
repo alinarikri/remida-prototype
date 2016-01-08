@@ -2,8 +2,11 @@
   
  <div class="featured-image">
           <div class="row vertical-centering">
-             <h1>Our story</h1>
-          <p>When sustainability, education and creativity come together!</p>
+            <div class="small-11 small-centered large-10 columns">
+                <h1>Our story</h1>
+                <p>When sustainability, education and creativity come together!</p>
+            </div>
+             
         </div>
 </div>
     
