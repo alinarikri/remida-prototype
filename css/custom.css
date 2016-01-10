@@ -52,6 +52,11 @@ main {
     }
 }
 
+@media (max-width:801px) and (orientation:landscape) {
+    h1 {font-size: 1.5em;}
+    p {margin-bottom: 0;}
+    .vertical-centering {padding: 1rem 0;}
+}
 
 .lead {
     padding-bottom: 1.5rem;
@@ -113,15 +118,22 @@ ul a:hover {
 
 .top-bar-right {
    margin-top: -100px;
-    margin-left: calc(100% - 140px); /* Pushes menu to the right, works well on different widths*/
+   margin-left: calc(100% - 140px); /* Pushes menu to the right, works well on different widths*/
 }
 
 @media (min-width:1024px) {
-    .top-bar-right { margin-top: -93px; } /* */
+    .top-bar-right { margin-top: -80px; } /* */
 }
+
 @media (max-width: 480px) {
     .top-bar-right{
         margin-top: -55px; /* works for 320, 360 widths*/
+    }  
+}
+
+@media (min-width: 320px) and (max-width: 359px) and (orientation: landscape) {
+    .top-bar-right{
+        margin-top: -70px; /* for 320px lansdcape */
     }
      
 }
@@ -330,9 +342,15 @@ img {
     background-size: auto 100%;
 }
 
-@media (max-width:980px){
+@media (max-width:980px) {
     #sponsors-featured {
-        background-position: -30vw top;
+        background-position: -25vw top;
+    }
+}
+
+@media (orientation:landscape){
+    #sponsors-featured {
+        background-position: -10vw top;
     }
 }
 /*********** FOOTER STYLES *********************/
