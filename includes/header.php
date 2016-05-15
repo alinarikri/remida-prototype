@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ReMida | Page title </title>
+    <title>ReMida | Home page </title>
     <link rel="stylesheet" href="/remida-prototype/css/foundation.css" />
     <link rel="stylesheet" href="/remida-prototype/css/custom.css" />
     <link rel="stylesheet" href="/remida-prototype/fonts/font-awesome-4.5.0/css/font-awesome.css" />
